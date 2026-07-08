@@ -20,5 +20,6 @@ public class HelloWorld {
         String b = a.next();
         System.out.println(b);
     }
+
 }
 //学过C语言，不想写基础语法
