@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/day02-Object-oriented/com.itheima/com.itheima.iml" filepath="$PROJECT_DIR$/day02-Object-oriented/com.itheima/com.itheima.iml" />
       <module fileurl="file://$PROJECT_DIR$/day01-helloworld/day01-helloworld.iml" filepath="$PROJECT_DIR$/day01-helloworld/day01-helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02-Object-oriented/day02-Object-oriented.iml" filepath="$PROJECT_DIR$/day02-Object-oriented/day02-Object-oriented.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaStudy1.iml" filepath="$PROJECT_DIR$/javaStudy1.iml" />
     </modules>
   </component>
